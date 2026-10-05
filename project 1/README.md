@@ -449,11 +449,10 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Priya Vadsak
+### Aastha Chodvadiya
 
-[![GitHub](https://img.shields.io/badge/GitHub-23se02ml213--design-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23se02ml213-design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-vadsak-4347294300)
-
+[![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24se02ml135-boop/python-project)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chodvadiya-aastha-8b79a4418/)
 > *"Every formula you master turns hours of manual work into a single cell."*
 
 **🎓 Role:** Python Learner | Data & Spreadsheet Enthusiast \
